@@ -1,0 +1,9 @@
+{
+  "asset_id": "gbpaintings:dm_afro",
+  "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.gbpaintings.dm_afro.title"
+  },
+  "width": 2
+}
